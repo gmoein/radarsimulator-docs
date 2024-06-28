@@ -1,0 +1,7 @@
+nav:
+- Home: index.md
+- User Guide: userguide.md
+- About: about.md
+site_name: radarsimulator-docs
+site_url: https://gmoein.github.com/RadarSim
+theme: readthedocs
