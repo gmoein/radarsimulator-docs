@@ -56,11 +56,11 @@ print(results)
 
 Here is a short video showing MyProject in action:
 
-[![MyProject Demo](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
+[![MyProject Demo](https://img.youtube.com/vi/P-IgU-CYxEo/0.jpg)](https://www.youtube.com/watch?v=P-IgU-CYxEo)
 
 ## Project Image
 
-![Project Image](image.png)
+![Project Image](https://gmoein.github.io/images/disn.jpg)
 
 ## References
 
@@ -72,4 +72,4 @@ Here is a short video showing MyProject in action:
 MyProject is released under the MIT License. See [LICENSE](LICENSE) for details.
 ```
 
-To use this, simply replace the placeholders such as `YOUTUBE_VIDEO_ID`, `image.png`, and the URLs with your actual project data. Save this content into a file named `README.md`.
+This content is ready to be saved into a file named `README.md`.
