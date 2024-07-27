@@ -1,4 +1,4 @@
-# MyProject
+# Radar Simulator test doc
 
 [MyProject](https://www.myproject.com) is a cutting-edge open-source library designed for advanced data processing and analysis. Utilizing the latest in machine learning and neural network technologies, MyProject offers unparalleled performance and flexibility. The modular architecture allows for easy integration and customization, making it ideal for both research and commercial applications.
 
@@ -54,9 +54,9 @@ print(results)
 
 ## Demonstration
 
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=P-IgU-CYxEo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>
+Here is a short video showing MyProject in action:
+
+[![MyProject Demo](https://img.youtube.com/vi/P-IgU-CYxEo/0.jpg)](https://www.youtube.com/watch?v=P-IgU-CYxEo)
 
 ## Project Image
 
@@ -72,4 +72,4 @@ print(results)
 MyProject is released under the MIT License. See [LICENSE](LICENSE) for details.
 ```
 
-This block of content is ready to be saved into a file named `README.md`. Note that GitHub's Markdown rendering does not support iframes, so the video embedding might not work when viewed directly on GitHub. However, it will work when the `README.md` is viewed in a Markdown viewer that supports HTML content.
+This content is ready to be saved into a file named `README.md`.
